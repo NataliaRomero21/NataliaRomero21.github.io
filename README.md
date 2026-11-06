@@ -1,7 +1,4 @@
 # Portafolio de Natalia
-
-Sitio web estático para publicar con GitHub Pages.
-
 ## Archivos
 - `index.html`: contenido y secciones del portafolio.
 - `styles.css`: colores, tipografías y diseño adaptable.
