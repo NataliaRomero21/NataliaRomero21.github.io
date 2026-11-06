@@ -27,5 +27,3 @@ Sitio web estático para publicar con GitHub Pages.
 6. Selecciona la rama `main` y la carpeta `/(root)`, y pulsa **Save**.
 7. Espera unos minutos y visita `https://TUUSUARIO.github.io`.
 
-## Importante sobre privacidad
-Todo lo que publiques en la web será accesible públicamente. No subas datos personales de terceros, información institucional reservada, expedientes, bases de datos sin anonimizar ni documentos que no tengas autorización para compartir.
